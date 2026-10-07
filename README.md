@@ -1,3 +1,10 @@
+# 💫 Hi 👋, I'm Vivek Kumar
+**A passionate Full Stack developer**
+
+Email Me 👉 ✉️ **chauhanvivek9639@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 📫 **How to reach me:** chauhanvivek9639@gmail.com
+- 😄 **Pronouns:** Vivek Kumar
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekchuahan17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekchauhan17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chauhanvivek9639@gmail.com) 
