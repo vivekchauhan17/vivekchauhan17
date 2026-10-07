@@ -24,11 +24,6 @@ Email Me 👉 ✉️ **chauhanvivek9639@gmail.com** For Collaboration/Project or
 ![](https://streak-stats.demolab.com/?user=vivekchauhan17&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vivekchauhan17&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vivekchauhan17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vivekchauhan17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=vivekchauhan17&icon=0&color=0)](https://visitcount.itsvg.in)
