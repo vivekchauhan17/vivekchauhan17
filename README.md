@@ -21,7 +21,7 @@ Email Me 👉 ✉️ **chauhanvivek9639@gmail.com** For Collaboration/Project or
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vivekchauhan17&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vivekchauhan17&theme=dark&hide_border=true)<br/>
+!<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vivekchauhan17&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
